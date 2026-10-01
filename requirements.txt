@@ -1,0 +1,2 @@
+# Verified against the current PyPI release available when this project was built.
+ursina==8.3.0
